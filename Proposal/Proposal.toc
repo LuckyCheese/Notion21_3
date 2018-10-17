@@ -1,0 +1,37 @@
+\contentsline {section}{\hbox to\@tempdima {\hfil }Abstract}{i}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Related work/Literature Review}{1}
+\contentsline {subsection}{\numberline {2.1}Advantage and Disadvantage of Common Methods}{2}
+\contentsline {subsection}{\numberline {2.2}Latent Dirichlet Allocation}{2}
+\contentsline {subsection}{\numberline {2.3}Link Based BPSO for Feature Selection}{3}
+\contentsline {subsection}{\numberline {2.4}Deep Learning Methods}{3}
+\contentsline {subsection}{\numberline {2.5}Deep learning Methods of Clustering}{4}
+\contentsline {section}{\numberline {3}Project Problems}{4}
+\contentsline {subsection}{\numberline {3.1}Project Aims \& Objectives}{4}
+\contentsline {subsection}{\numberline {3.2}Project Questions}{4}
+\contentsline {subsection}{\numberline {3.3}Project Scope}{5}
+\contentsline {section}{\numberline {4}Methodology}{6}
+\contentsline {subsection}{\numberline {4.1}Data Collection}{6}
+\contentsline {subsection}{\numberline {4.2}Data Analysis}{6}
+\contentsline {subsection}{\numberline {4.3}Text Pre-process}{6}
+\contentsline {subsection}{\numberline {4.4}Clustering Algorithms}{8}
+\contentsline {subsubsection}{\numberline {4.4.1}K-Means}{8}
+\contentsline {subsubsection}{\numberline {4.4.2}Gaussian Mixture Method}{9}
+\contentsline {subsubsection}{\numberline {4.4.3}Agglomerative Clustering}{9}
+\contentsline {subsubsection}{\numberline {4.4.4}DBSCAN}{9}
+\contentsline {subsection}{\numberline {4.5}Deep Neural Network Clustering Method}{9}
+\contentsline {subsubsection}{\numberline {4.5.1}Deep Auto-encoder}{9}
+\contentsline {subsubsection}{\numberline {4.5.2}Deep Embedded Clustering}{11}
+\contentsline {subsubsection}{\numberline {4.5.3}DeepCluster}{11}
+\contentsline {subsection}{\numberline {4.6}Clustering Validation}{12}
+\contentsline {subsubsection}{\numberline {4.6.1}Elbow Method}{12}
+\contentsline {subsubsection}{\numberline {4.6.2}Silhouette Plots}{13}
+\contentsline {section}{\numberline {5}Resources}{14}
+\contentsline {subsection}{\numberline {5.1}Hardware}{14}
+\contentsline {subsection}{\numberline {5.2}Software}{14}
+\contentsline {subsection}{\numberline {5.3}Roles \& Responsibilities}{15}
+\contentsline {section}{\numberline {6}Expected Outcomes}{15}
+\contentsline {subsection}{\numberline {6.1}Project Deliverables}{15}
+\contentsline {subsection}{\numberline {6.2}Implications}{15}
+\contentsline {section}{\numberline {7}Milestones / Schedule}{16}
+\contentsline {section}{References}{19}

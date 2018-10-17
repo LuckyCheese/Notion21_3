@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Proposal.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Proposal.bib
+Warning--entry type for "royalcommission" isn't style-file defined
+--line 18 of file Proposal.bib
+Warning--entry type for "3benefit" isn't style-file defined
+--line 27 of file Proposal.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in cogburn2017introduction
+You've used 20 entries,
+            6951 wiz_defined-function locations,
+            1383 strings with 14527 characters,
+and the built_in function-call counts, 41563 in all, are:
+= -- 5381
+> -- 381
+< -- 1859
++ -- 1913
+- -- 44
+* -- 2492
+:= -- 7145
+add.period$ -- 97
+call.type$ -- 20
+change.case$ -- 348
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 1073
+empty$ -- 1560
+format.name$ -- 582
+if$ -- 8109
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 0
+newline$ -- 513
+num.names$ -- 160
+pop$ -- 799
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 2911
+stack$ -- 0
+substring$ -- 2154
+swap$ -- 631
+text.length$ -- 95
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2256
+warning$ -- 1
+while$ -- 203
+width$ -- 0
+write$ -- 653
+(There were 3 warnings)

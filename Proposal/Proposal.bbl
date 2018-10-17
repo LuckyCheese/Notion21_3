@@ -1,0 +1,570 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Allahyari%
+\ \protect \BOthers {.}}{%
+Allahyari%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+allahyari2017brief}
+\APACinsertmetastar {%
+allahyari2017brief}%
+\begin{APACrefauthors}%
+Allahyari, M.%
+, Pouriyeh, S.%
+, Assefi, M.%
+, Safaei, S.%
+, Trippe, E\BPBI D.%
+, Gutierrez, J\BPBI B.%
+\BCBL {}\ \BBA {} Kochut, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A brief survey of text mining: Classification,
+  clustering and extraction techniques} {A brief survey of text mining:
+  Classification, clustering and extraction techniques}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1707.02919}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barab{\'a}si%
+, Albert%
+\BCBL {}\ \BBA {} Jeong%
+}{%
+Barab{\'a}si%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+barabasi2000scale}
+\APACinsertmetastar {%
+barabasi2000scale}%
+\begin{APACrefauthors}%
+Barab{\'a}si, A\BHBI L.%
+, Albert, R.%
+\BCBL {}\ \BBA {} Jeong, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Scale-free characteristics of random networks: the
+  topology of the world-wide web} {Scale-free characteristics of random
+  networks: the topology of the world-wide web}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physica A: statistical mechanics and its
+  applications}{281}{1-4}{69--77}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barde%
+\ \BBA {} Bainwad%
+}{%
+Barde%
+\ \BBA {} Bainwad%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+barde2017overview}
+\APACinsertmetastar {%
+barde2017overview}%
+\begin{APACrefauthors}%
+Barde, B\BPBI V.%
+\BCBT {}\ \BBA {} Bainwad, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An overview of topic modeling methods and tools} {An
+  overview of topic modeling methods and tools}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Intelligent Computing and Control Systems (ICICCS), 2017
+  International Conference on} {Intelligent computing and control systems
+  (iciccs), 2017 international conference on}\ (\BPGS\ 745--750).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bengio%
+, Lamblin%
+, Popovici%
+\BCBL {}\ \BBA {} Larochelle%
+}{%
+Bengio%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+bengio2007greedy}
+\APACinsertmetastar {%
+bengio2007greedy}%
+\begin{APACrefauthors}%
+Bengio, Y.%
+, Lamblin, P.%
+, Popovici, D.%
+\BCBL {}\ \BBA {} Larochelle, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Greedy layer-wise training of deep networks} {Greedy
+  layer-wise training of deep networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in neural information processing systems}
+  {Advances in neural information processing systems}\ (\BPGS\ 153--160).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Blei%
+, Ng%
+\BCBL {}\ \BBA {} Jordan%
+}{%
+Blei%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+blei2003latent}
+\APACinsertmetastar {%
+blei2003latent}%
+\begin{APACrefauthors}%
+Blei, D\BPBI M.%
+, Ng, A\BPBI Y.%
+\BCBL {}\ \BBA {} Jordan, M\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Latent dirichlet allocation} {Latent dirichlet
+  allocation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of machine Learning
+  research}{3}{Jan}{993--1022}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bolaji%
+, Al-Betar%
+, Awadallah%
+, Khader%
+\BCBL {}\ \BBA {} Abualigah%
+}{%
+Bolaji%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+bolaji2016comprehensive}
+\APACinsertmetastar {%
+bolaji2016comprehensive}%
+\begin{APACrefauthors}%
+Bolaji, A\BPBI L.%
+, Al-Betar, M\BPBI A.%
+, Awadallah, M\BPBI A.%
+, Khader, A\BPBI T.%
+\BCBL {}\ \BBA {} Abualigah, L\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A comprehensive review: Krill Herd algorithm (KH) and
+  its applications} {A comprehensive review: Krill herd algorithm (kh) and its
+  applications}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Applied Soft Computing}{49}{}{437--446}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cogburn%
+\ \BBA {} Hine%
+}{%
+Cogburn%
+\ \BBA {} Hine%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+cogburn2017introduction}
+\APACinsertmetastar {%
+cogburn2017introduction}%
+\begin{APACrefauthors}%
+Cogburn, D.%
+\BCBT {}\ \BBA {} Hine, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introduction to Text Mining in Big Data Analytics
+  Minitrack} {Introduction to text mining in big data analytics
+  minitrack}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kennedy%
+}{%
+Kennedy%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+kennedy2011particle}
+\APACinsertmetastar {%
+kennedy2011particle}%
+\begin{APACrefauthors}%
+Kennedy, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Particle swarm optimization} {Particle swarm
+  optimization}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Encyclopedia of machine learning} {Encyclopedia of
+  machine learning}\ (\BPGS\ 760--766).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kennedy%
+\ \BBA {} Eberhart%
+}{%
+Kennedy%
+\ \BBA {} Eberhart%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+kennedy1997discrete}
+\APACinsertmetastar {%
+kennedy1997discrete}%
+\begin{APACrefauthors}%
+Kennedy, J.%
+\BCBT {}\ \BBA {} Eberhart, R\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A discrete binary version of the particle swarm
+  algorithm} {A discrete binary version of the particle swarm
+  algorithm}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Systems, Man, and Cybernetics, 1997. Computational
+  Cybernetics and Simulation., 1997 IEEE International Conference on} {Systems,
+  man, and cybernetics, 1997. computational cybernetics and simulation., 1997
+  ieee international conference on}\ (\BVOL~5, \BPGS\ 4104--4108).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kushwaha%
+\ \BBA {} Pant%
+}{%
+Kushwaha%
+\ \BBA {} Pant%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+kushwaha2018link}
+\APACinsertmetastar {%
+kushwaha2018link}%
+\begin{APACrefauthors}%
+Kushwaha, N.%
+\BCBT {}\ \BBA {} Pant, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Link based BPSO for feature selection in big data text
+  clustering} {Link based bpso for feature selection in big data text
+  clustering}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Future Generation Computer Systems}{82}{}{190--199}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Le%
+}{%
+Le%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+le2013building}
+\APACinsertmetastar {%
+le2013building}%
+\begin{APACrefauthors}%
+Le, Q\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Building high-level features using large scale
+  unsupervised learning} {Building high-level features using large scale
+  unsupervised learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Acoustics, Speech and Signal Processing (ICASSP), 2013
+  IEEE International Conference on} {Acoustics, speech and signal processing
+  (icassp), 2013 ieee international conference on}\ (\BPGS\ 8595--8598).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liang%
+, Sun%
+, Sun%
+\BCBL {}\ \BBA {} Gao%
+}{%
+Liang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+liang2017text}
+\APACinsertmetastar {%
+liang2017text}%
+\begin{APACrefauthors}%
+Liang, H.%
+, Sun, X.%
+, Sun, Y.%
+\BCBL {}\ \BBA {} Gao, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Text feature extraction based on deep learning: a
+  review} {Text feature extraction based on deep learning: a review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{EURASIP journal on wireless communications and
+  networking}{2017}{1}{211}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Oshri%
+\ \BBA {} Khandwala%
+}{%
+Oshri%
+\ \BBA {} Khandwala%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+oshri2016there}
+\APACinsertmetastar {%
+oshri2016there}%
+\begin{APACrefauthors}%
+Oshri, B.%
+\BCBT {}\ \BBA {} Khandwala, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {There and Back Again: Autoencoders for Textual Reconstruction.}
+  {There and back again: Autoencoders for textual reconstruction.}
+\newblock
+\APACaddressPublisher{}{Stanford CS224D Final Project}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+RightsDirect%
+}{%
+RightsDirect%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+3benefit}
+\APACinsertmetastar {%
+3benefit}%
+\begin{APACrefauthors}%
+RightsDirect.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {3 Reasons to Consider Text Mining.} {3 reasons to consider text
+  mining.}
+\newblock
+\begin{APACrefURL}
+  [{2018/8/27}]\url{https://www.rightsdirect.com/3-reasons-consider-text-mining-4/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+RoyalCommission%
+}{%
+RoyalCommission%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+royalcommission}
+\APACinsertmetastar {%
+royalcommission}%
+\begin{APACrefauthors}%
+RoyalCommission.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Royal Commission into Misconduct in the Banking, Superannuation
+  and Financial Services Industry.} {Royal commission into misconduct in the
+  banking, superannuation and financial services industry.}
+\newblock
+\begin{APACrefURL}
+  [{2018/8/27}]\url{https://financialservices.royalcommission.gov.au/Pages/default.aspx}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shah%
+\ \BBA {} Patel%
+}{%
+Shah%
+\ \BBA {} Patel%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+shah2016review}
+\APACinsertmetastar {%
+shah2016review}%
+\begin{APACrefauthors}%
+Shah, F\BPBI P.%
+\BCBT {}\ \BBA {} Patel, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A review on feature selection and feature extraction for
+  text classification} {A review on feature selection and feature extraction
+  for text classification}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Wireless Communications, Signal Processing and
+  Networking (WiSPNET), International Conference on} {Wireless communications,
+  signal processing and networking (wispnet), international conference on}\
+  (\BPGS\ 2264--2268).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thanaki%
+}{%
+Thanaki%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+JT}
+\APACinsertmetastar {%
+JT}%
+\begin{APACrefauthors}%
+Thanaki, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Python natural language processing: Explore NLP with
+  machine learning and deep learning techniques.} {Python natural language
+  processing: Explore nlp with machine learning and deep learning
+  techniques.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Birmingham, UK: Packt Publishing}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tian%
+, Zhou%
+\BCBL {}\ \BBA {} Guan%
+}{%
+Tian%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+tian2017deepcluster}
+\APACinsertmetastar {%
+tian2017deepcluster}%
+\begin{APACrefauthors}%
+Tian, K.%
+, Zhou, S.%
+\BCBL {}\ \BBA {} Guan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DeepCluster: A General Clustering Framework Based on
+  Deep Learning} {Deepcluster: A general clustering framework based on deep
+  learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Joint European Conference on Machine Learning and
+  Knowledge Discovery in Databases} {Joint european conference on machine
+  learning and knowledge discovery in databases}\ (\BPGS\ 809--825).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vincent%
+, Larochelle%
+, Lajoie%
+, Bengio%
+\BCBL {}\ \BBA {} Manzagol%
+}{%
+Vincent%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+vincent2010stacked}
+\APACinsertmetastar {%
+vincent2010stacked}%
+\begin{APACrefauthors}%
+Vincent, P.%
+, Larochelle, H.%
+, Lajoie, I.%
+, Bengio, Y.%
+\BCBL {}\ \BBA {} Manzagol, P\BHBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stacked denoising autoencoders: Learning useful
+  representations in a deep network with a local denoising criterion} {Stacked
+  denoising autoencoders: Learning useful representations in a deep network
+  with a local denoising criterion}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of machine learning
+  research}{11}{Dec}{3371--3408}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xie%
+, Girshick%
+\BCBL {}\ \BBA {} Farhadi%
+}{%
+Xie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+xie2016unsupervised}
+\APACinsertmetastar {%
+xie2016unsupervised}%
+\begin{APACrefauthors}%
+Xie, J.%
+, Girshick, R.%
+\BCBL {}\ \BBA {} Farhadi, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Unsupervised deep embedding for clustering analysis}
+  {Unsupervised deep embedding for clustering analysis}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {International conference on machine learning}
+  {International conference on machine learning}\ (\BPGS\ 478--487).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
