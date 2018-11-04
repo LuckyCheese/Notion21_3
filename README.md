@@ -134,3 +134,5 @@ pyLDAvis.display(lda_vis)
 * In the browser of Neo4j, type "Match(n) return n" for viewing the whole result
 type "Match (n) detach delete n" for deleting the whole result
 =================================================================
+# 3. Watson model
+file : Hierarchy_Min_Final.ipynb
