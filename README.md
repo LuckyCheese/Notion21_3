@@ -50,7 +50,7 @@ Run the code from top to bottom to see the same results.
  - Python file: LDA_Method.py
  - Data file: Json file (Royal commission)
 =================================================================
-Installation
+##Installation
 * Library:
 * nltk
 * pandas
