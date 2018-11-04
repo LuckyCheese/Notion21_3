@@ -135,4 +135,4 @@ pyLDAvis.display(lda_vis)
 type "Match (n) detach delete n" for deleting the whole result
 =================================================================
 # 3. Watson model
-file : Hierarchy_Min_Final.ipynb
+file :Watson NLU.ipynb
