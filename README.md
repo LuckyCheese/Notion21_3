@@ -44,7 +44,7 @@ Run the code from top to bottom to see the same results.
  - Sections 8: Show results (Top features, top sentences, features network)
  
 # 2. LDA model
-## Required files and environment:
+ ## Required files and environment:
  -Recommend complier: Jupyter notebook Version 4.4.0
  -Jupyter notebook file: LDA_Method.ipynb
  -Python file: LDA_Method.py 
