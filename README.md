@@ -51,7 +51,7 @@ Run the code from top to bottom to see the same results.
  - Data file: Json file (Royal commission)
 =================================================================
 
-* Library:
+Library:
 * nltk
 * pandas
 * gensim
